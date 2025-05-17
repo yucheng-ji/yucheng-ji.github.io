@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yucheng Ji - Personal Homepage</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Yucheng Ji</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="about">
+            <h2>About Me</h2>
+            <p>Hello! I'm Yucheng Ji. This is my personal homepage where I share information about my work and projects.</p>
+        </section>
+
+        <section id="projects">
+            <h2>Projects</h2>
+            <div class="project">
+                <h3>Project 1</h3>
+                <p>Description of your first project.</p>
+            </div>
+            <div class="project">
+                <h3>Project 2</h3>
+                <p>Description of your second project.</p>
+            </div>
+        </section>
+
+        <section id="contact">
+            <h2>Contact</h2>
+            <p>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
+            <p>GitHub: <a href="https://github.com/yucheng-ji">github.com/yucheng-ji</a></p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Yucheng Ji. All rights reserved.</p>
+    </footer>
+</body>
+</html>
