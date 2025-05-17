@@ -1,0 +1,332 @@
+############## This is the -> 1 <- cycle ##############
+VASP Calc    :     outmodel0	start	Fri Dec 23 21:20:56 CET 2022
+VASP Calc    :	outmodel0	-212.86299529     Fri Dec 23 21:24:12 CET 2022
+VASP Calc    :     outmodel1	start	Fri Dec 23 21:24:15 CET 2022
+VASP Calc    :	outmodel1	-220.61167631     Fri Dec 23 21:26:42 CET 2022
+MLIP Start   : 	Fri Dec 23 21:26:44 CET 2022
+MLIP END     : 	Sat Dec 24 19:31:00 CET 2022
+############## This is the -> 2 <- cycle ##############
+VASP Calc    :     outmodel0	start	Sat Dec 24 19:34:40 CET 2022
+VASP Calc    :	outmodel0	-231.04359755     Sat Dec 24 19:36:50 CET 2022
+VASP Calc    :     outmodel10	start	Sat Dec 24 19:36:51 CET 2022
+VASP Calc    :	outmodel10	-225.47578936     Sat Dec 24 19:39:13 CET 2022
+VASP Calc    :     outmodel102	start	Sat Dec 24 19:39:13 CET 2022
+VASP Calc    : Error     Sat Dec 24 19:40:29 CET 2022
+############## This is the -> 1 <- cycle ##############
+VASP Calc    :     outmodel0	start	Sun Dec 25 06:54:07 CET 2022
+VASP Calc    :	outmodel0	-212.86299529     Sun Dec 25 06:56:45 CET 2022
+VASP Calc    :     outmodel1	start	Sun Dec 25 06:56:46 CET 2022
+VASP Calc    : Error --> skipped     Sun Dec 25 06:58:06 CET 2022
+VASP Calc    :     outmodel10	start	Sun Dec 25 06:58:06 CET 2022
+VASP Calc    :	outmodel10	-225.47578936     Sun Dec 25 07:00:51 CET 2022
+VASP Calc    :     outmodel102	start	Sun Dec 25 07:00:53 CET 2022
+VASP Calc    :	outmodel102	-242.33744321     Sun Dec 25 07:03:41 CET 2022
+VASP Calc    :     outmodel12	start	Sun Dec 25 07:03:42 CET 2022
+VASP Calc    :	outmodel12	-265.68798869     Sun Dec 25 07:07:12 CET 2022
+VASP Calc    :     outmodel19	start	Sun Dec 25 07:07:13 CET 2022
+VASP Calc    : Error --> skipped     Sun Dec 25 07:09:09 CET 2022
+VASP Calc    :     outmodel2	start	Sun Dec 25 07:09:09 CET 2022
+VASP Calc    :	outmodel2	-220.61167631     Sun Dec 25 07:11:41 CET 2022
+VASP Calc    :     outmodel20	start	Sun Dec 25 07:11:42 CET 2022
+VASP Calc    :	outmodel20	-226.14926072     Sun Dec 25 07:14:21 CET 2022
+VASP Calc    :     outmodel21	start	Sun Dec 25 07:14:22 CET 2022
+VASP Calc    : Error --> skipped     Sun Dec 25 07:15:36 CET 2022
+VASP Calc    :     outmodel22	start	Sun Dec 25 07:15:36 CET 2022
+VASP Calc    :	outmodel22	-230.71748399     Sun Dec 25 07:18:09 CET 2022
+VASP Calc    :     outmodel27	start	Sun Dec 25 07:18:11 CET 2022
+VASP Calc    :	outmodel27	-229.41777313     Sun Dec 25 07:20:33 CET 2022
+VASP Calc    :     outmodel3	start	Sun Dec 25 07:20:33 CET 2022
+VASP Calc    :	outmodel3	-209.21466113     Sun Dec 25 07:23:10 CET 2022
+VASP Calc    :     outmodel33	start	Sun Dec 25 07:23:10 CET 2022
+VASP Calc    :	outmodel33	-241.12463985     Sun Dec 25 07:25:25 CET 2022
+VASP Calc    :     outmodel36	start	Sun Dec 25 07:25:29 CET 2022
+VASP Calc    :	outmodel36	-228.89973767     Sun Dec 25 07:28:07 CET 2022
+VASP Calc    :     outmodel37	start	Sun Dec 25 07:28:07 CET 2022
+VASP Calc    :	outmodel37	-264.95188436     Sun Dec 25 07:32:19 CET 2022
+VASP Calc    :     outmodel4	start	Sun Dec 25 07:32:20 CET 2022
+VASP Calc    :	outmodel4	-213.48660741     Sun Dec 25 07:35:02 CET 2022
+VASP Calc    :     outmodel49	start	Sun Dec 25 07:35:03 CET 2022
+VASP Calc    : Error --> skipped     Sun Dec 25 07:36:27 CET 2022
+VASP Calc    :     outmodel5	start	Sun Dec 25 07:36:27 CET 2022
+VASP Calc    : Error --> skipped     Sun Dec 25 07:38:14 CET 2022
+VASP Calc    :     outmodel50	start	Sun Dec 25 07:38:14 CET 2022
+VASP Calc    :	outmodel50	-265.59586123     Sun Dec 25 07:40:59 CET 2022
+VASP Calc    :     outmodel52	start	Sun Dec 25 07:41:01 CET 2022
+VASP Calc    :	outmodel52	-227.58824656     Sun Dec 25 07:43:47 CET 2022
+VASP Calc    :     outmodel56	start	Sun Dec 25 07:43:48 CET 2022
+VASP Calc    :	outmodel56	-239.38039101     Sun Dec 25 07:46:58 CET 2022
+VASP Calc    :     outmodel59	start	Sun Dec 25 07:46:58 CET 2022
+VASP Calc    :	outmodel59	-231.27499002     Sun Dec 25 07:49:09 CET 2022
+VASP Calc    :     outmodel6	start	Sun Dec 25 07:49:11 CET 2022
+VASP Calc    :	outmodel6	-212.95113015     Sun Dec 25 07:52:26 CET 2022
+VASP Calc    :     outmodel61	start	Sun Dec 25 07:52:27 CET 2022
+VASP Calc    : Error --> skipped     Sun Dec 25 07:53:41 CET 2022
+VASP Calc    :     outmodel63	start	Sun Dec 25 07:53:41 CET 2022
+VASP Calc    :	outmodel63	-239.76875396     Sun Dec 25 07:56:15 CET 2022
+VASP Calc    :     outmodel67	start	Sun Dec 25 07:56:16 CET 2022
+VASP Calc    :	outmodel67	-266.21219948     Sun Dec 25 07:59:46 CET 2022
+VASP Calc    :     outmodel68	start	Sun Dec 25 07:59:47 CET 2022
+VASP Calc    :	outmodel68	-228.31646636     Sun Dec 25 08:02:12 CET 2022
+VASP Calc    :     outmodel7	start	Sun Dec 25 08:02:13 CET 2022
+VASP Calc    : Error --> skipped     Sun Dec 25 08:03:26 CET 2022
+VASP Calc    :     outmodel74	start	Sun Dec 25 08:03:26 CET 2022
+VASP Calc    :	outmodel74	-229.49407766     Sun Dec 25 08:05:08 CET 2022
+VASP Calc    :     outmodel8	start	Sun Dec 25 08:05:09 CET 2022
+VASP Calc    :	outmodel8	-214.27313758     Sun Dec 25 08:07:15 CET 2022
+VASP Calc    :     outmodel82	start	Sun Dec 25 08:07:15 CET 2022
+VASP Calc    :	outmodel82	-266.22928023     Sun Dec 25 08:10:20 CET 2022
+VASP Calc    :     outmodel85	start	Sun Dec 25 08:10:21 CET 2022
+VASP Calc    :	outmodel85	-242.35792946     Sun Dec 25 08:12:58 CET 2022
+VASP Calc    :     outmodel89	start	Sun Dec 25 08:12:59 CET 2022
+VASP Calc    :	outmodel89	-230.98202256     Sun Dec 25 08:15:14 CET 2022
+VASP Calc    :     outmodel9	start	Sun Dec 25 08:15:14 CET 2022
+VASP Calc    :	outmodel9	-229.65462757     Sun Dec 25 08:18:00 CET 2022
+VASP Calc    :     outmodel95	start	Sun Dec 25 08:18:02 CET 2022
+VASP Calc    :	outmodel95	-229.00609533     Sun Dec 25 08:20:06 CET 2022
+VASP Calc    :     outmodel98	start	Sun Dec 25 08:20:07 CET 2022
+VASP Calc    :	outmodel98	-266.08085641     Sun Dec 25 08:23:11 CET 2022
+VASP Calc    :     outmodel99	start	Sun Dec 25 08:23:12 CET 2022
+VASP Calc    :	outmodel99	-265.80559933     Sun Dec 25 08:26:42 CET 2022
+MLIP Start   : 	Sun Dec 25 08:26:47 CET 2022
+MLIP END     : 	Mon Dec 26 07:53:57 CET 2022
+############## This is the -> 2 <- cycle ##############
+VASP Calc    :     outmodel0	start	Mon Dec 26 07:56:59 CET 2022
+VASP Calc    :	outmodel0	-289.20926918     Mon Dec 26 08:01:05 CET 2022
+VASP Calc    :     outmodel10	start	Mon Dec 26 08:01:06 CET 2022
+VASP Calc    :	outmodel10	-243.58745008     Mon Dec 26 08:03:30 CET 2022
+VASP Calc    :     outmodel12	start	Mon Dec 26 08:03:34 CET 2022
+VASP Calc    : Error --> skipped     Mon Dec 26 08:05:19 CET 2022
+VASP Calc    :     outmodel19	start	Mon Dec 26 08:05:19 CET 2022
+VASP Calc    :	outmodel19	-273.93386555     Mon Dec 26 08:08:40 CET 2022
+VASP Calc    :     outmodel2	start	Mon Dec 26 08:08:41 CET 2022
+VASP Calc    :	outmodel2	-245.63237831     Mon Dec 26 08:11:18 CET 2022
+VASP Calc    :     outmodel20	start	Mon Dec 26 08:11:19 CET 2022
+VASP Calc    : Error --> skipped     Mon Dec 26 08:12:07 CET 2022
+VASP Calc    :     outmodel21	start	Mon Dec 26 08:12:08 CET 2022
+VASP Calc    : Error --> skipped     Mon Dec 26 08:13:11 CET 2022
+VASP Calc    :     outmodel22	start	Mon Dec 26 08:13:11 CET 2022
+VASP Calc    :	outmodel22	-278.12268805     Mon Dec 26 08:15:42 CET 2022
+VASP Calc    :     outmodel27	start	Mon Dec 26 08:15:42 CET 2022
+VASP Calc    :	outmodel27	-238.60053409     Mon Dec 26 08:18:05 CET 2022
+VASP Calc    :     outmodel33	start	Mon Dec 26 08:18:05 CET 2022
+VASP Calc    :	outmodel33	-282.64238191     Mon Dec 26 08:21:37 CET 2022
+VASP Calc    :     outmodel36	start	Mon Dec 26 08:21:39 CET 2022
+VASP Calc    :	outmodel36	-281.70595215     Mon Dec 26 08:24:28 CET 2022
+VASP Calc    :     outmodel37	start	Mon Dec 26 08:24:28 CET 2022
+VASP Calc    :	outmodel37	-283.45956373     Mon Dec 26 08:27:25 CET 2022
+VASP Calc    :     outmodel38	start	Mon Dec 26 08:27:25 CET 2022
+VASP Calc    :	outmodel38	-277.31132949     Mon Dec 26 08:30:31 CET 2022
+VASP Calc    :     outmodel44	start	Mon Dec 26 08:30:31 CET 2022
+VASP Calc    : Error --> skipped     Mon Dec 26 08:31:34 CET 2022
+VASP Calc    :     outmodel49	start	Mon Dec 26 08:31:34 CET 2022
+VASP Calc    :	outmodel49	-288.94039403     Mon Dec 26 08:35:18 CET 2022
+VASP Calc    :     outmodel50	start	Mon Dec 26 08:35:18 CET 2022
+VASP Calc    :	outmodel50	-284.82406487     Mon Dec 26 08:38:57 CET 2022
+VASP Calc    :     outmodel52	start	Mon Dec 26 08:38:59 CET 2022
+VASP Calc    : Error --> skipped     Mon Dec 26 08:40:08 CET 2022
+VASP Calc    :     outmodel53	start	Mon Dec 26 08:40:08 CET 2022
+VASP Calc    :	outmodel53	-272.41660896     Mon Dec 26 08:43:37 CET 2022
+VASP Calc    :     outmodel56	start	Mon Dec 26 08:43:38 CET 2022
+VASP Calc    :	outmodel56	-250.82048949     Mon Dec 26 08:46:15 CET 2022
+VASP Calc    :     outmodel59	start	Mon Dec 26 08:46:15 CET 2022
+VASP Calc    :	outmodel59	-261.13701572     Mon Dec 26 08:49:51 CET 2022
+VASP Calc    :     outmodel61	start	Mon Dec 26 08:49:58 CET 2022
+VASP Calc    :	outmodel61	-287.02885107     Mon Dec 26 08:52:45 CET 2022
+VASP Calc    :     outmodel63	start	Mon Dec 26 08:52:46 CET 2022
+VASP Calc    :	outmodel63	-252.61261105     Mon Dec 26 08:54:53 CET 2022
+VASP Calc    :     outmodel67	start	Mon Dec 26 08:54:59 CET 2022
+VASP Calc    : Error --> skipped     Mon Dec 26 08:56:19 CET 2022
+VASP Calc    :     outmodel68	start	Mon Dec 26 08:56:19 CET 2022
+VASP Calc    :	outmodel68	-276.57399525     Mon Dec 26 09:00:08 CET 2022
+VASP Calc    :     outmodel70	start	Mon Dec 26 09:00:08 CET 2022
+VASP Calc    :	outmodel70	-271.02801950     Mon Dec 26 09:03:17 CET 2022
+VASP Calc    :     outmodel71	start	Mon Dec 26 09:03:17 CET 2022
+VASP Calc    :	outmodel71	-243.85336013     Mon Dec 26 09:05:27 CET 2022
+VASP Calc    :     outmodel74	start	Mon Dec 26 09:05:29 CET 2022
+VASP Calc    :	outmodel74	-247.92988361     Mon Dec 26 09:08:13 CET 2022
+VASP Calc    :     outmodel8	start	Mon Dec 26 09:08:14 CET 2022
+VASP Calc    :	outmodel8	-266.95522337     Mon Dec 26 09:11:51 CET 2022
+VASP Calc    :     outmodel82	start	Mon Dec 26 09:11:51 CET 2022
+VASP Calc    :	outmodel82	-242.96905780     Mon Dec 26 09:14:43 CET 2022
+VASP Calc    :     outmodel9	start	Mon Dec 26 09:14:44 CET 2022
+VASP Calc    :	outmodel9	-280.11472040     Mon Dec 26 09:18:12 CET 2022
+MLIP Start   : 	Mon Dec 26 09:18:17 CET 2022
+MLIP END     : 	Tue Dec 27 05:37:35 CET 2022
+############## This is the -> 3 <- cycle ##############
+VASP Calc    :     outmodel0	start	Tue Dec 27 05:38:38 CET 2022
+VASP Calc    :	outmodel0	-199.68086150     Tue Dec 27 05:41:33 CET 2022
+VASP Calc    :     outmodel1	start	Tue Dec 27 05:41:35 CET 2022
+VASP Calc    :	outmodel1	-212.79423746     Tue Dec 27 05:44:15 CET 2022
+VASP Calc    :     outmodel10	start	Tue Dec 27 05:44:16 CET 2022
+VASP Calc    :	outmodel10	-212.43874899     Tue Dec 27 05:46:58 CET 2022
+VASP Calc    :     outmodel11	start	Tue Dec 27 05:46:58 CET 2022
+VASP Calc    :	outmodel11	-220.61167631     Tue Dec 27 05:49:05 CET 2022
+VASP Calc    :     outmodel12	start	Tue Dec 27 05:49:06 CET 2022
+VASP Calc    : Error --> skipped     Tue Dec 27 05:50:12 CET 2022
+VASP Calc    :     outmodel13	start	Tue Dec 27 05:50:12 CET 2022
+VASP Calc    :	outmodel13	-215.75276411     Tue Dec 27 05:52:16 CET 2022
+VASP Calc    :     outmodel14	start	Tue Dec 27 05:52:16 CET 2022
+VASP Calc    :	outmodel14	-213.29246664     Tue Dec 27 05:55:18 CET 2022
+VASP Calc    :     outmodel15	start	Tue Dec 27 05:55:19 CET 2022
+VASP Calc    :	outmodel15	-210.20743738     Tue Dec 27 05:58:07 CET 2022
+VASP Calc    :     outmodel16	start	Tue Dec 27 05:58:07 CET 2022
+VASP Calc    :	outmodel16	-213.12759207     Tue Dec 27 06:00:52 CET 2022
+VASP Calc    :     outmodel17	start	Tue Dec 27 06:00:52 CET 2022
+VASP Calc    :	outmodel17	-213.44143267     Tue Dec 27 06:03:04 CET 2022
+VASP Calc    :     outmodel18	start	Tue Dec 27 06:03:06 CET 2022
+VASP Calc    : Error --> skipped     Tue Dec 27 06:04:13 CET 2022
+VASP Calc    :     outmodel19	start	Tue Dec 27 06:04:13 CET 2022
+VASP Calc    :	outmodel19	-191.52760054     Tue Dec 27 06:06:23 CET 2022
+VASP Calc    :     outmodel2	start	Tue Dec 27 06:06:23 CET 2022
+VASP Calc    : Error --> skipped     Tue Dec 27 06:07:32 CET 2022
+VASP Calc    :     outmodel20	start	Tue Dec 27 06:07:32 CET 2022
+VASP Calc    :	outmodel20	-213.35847662     Tue Dec 27 06:10:20 CET 2022
+VASP Calc    :     outmodel21	start	Tue Dec 27 06:10:20 CET 2022
+VASP Calc    : Error --> skipped     Tue Dec 27 06:11:35 CET 2022
+VASP Calc    :     outmodel22	start	Tue Dec 27 06:11:35 CET 2022
+VASP Calc    :	outmodel22	-213.74720604     Tue Dec 27 06:13:35 CET 2022
+VASP Calc    :     outmodel23	start	Tue Dec 27 06:13:37 CET 2022
+VASP Calc    :	outmodel23	-214.92349253     Tue Dec 27 06:15:37 CET 2022
+VASP Calc    :     outmodel24	start	Tue Dec 27 06:15:39 CET 2022
+VASP Calc    :	outmodel24	-212.21807765     Tue Dec 27 06:18:29 CET 2022
+VASP Calc    :     outmodel3	start	Tue Dec 27 06:18:30 CET 2022
+VASP Calc    :	outmodel3	-213.85573054     Tue Dec 27 06:20:55 CET 2022
+VASP Calc    :     outmodel4	start	Tue Dec 27 06:20:57 CET 2022
+VASP Calc    : Error --> skipped     Tue Dec 27 06:22:49 CET 2022
+VASP Calc    :     outmodel5	start	Tue Dec 27 06:22:50 CET 2022
+VASP Calc    : Error --> skipped     Tue Dec 27 06:24:14 CET 2022
+VASP Calc    :     outmodel6	start	Tue Dec 27 06:24:14 CET 2022
+VASP Calc    :	outmodel6	-210.72934287     Tue Dec 27 06:26:56 CET 2022
+VASP Calc    :     outmodel7	start	Tue Dec 27 06:26:56 CET 2022
+VASP Calc    :	outmodel7	-213.52746190     Tue Dec 27 06:29:29 CET 2022
+VASP Calc    :     outmodel8	start	Tue Dec 27 06:29:29 CET 2022
+VASP Calc    :	outmodel8	-205.86667030     Tue Dec 27 06:31:46 CET 2022
+VASP Calc    :     outmodel9	start	Tue Dec 27 06:31:47 CET 2022
+VASP Calc    : Error --> skipped     Tue Dec 27 06:32:39 CET 2022
+MLIP Start   : 	Tue Dec 27 06:32:41 CET 2022
+MLIP END     : 	Tue Dec 27 18:13:56 CET 2022
+############## This is the -> 4 <- cycle ##############
+VASP Calc    :     outmodel0	start	Tue Dec 27 18:15:16 CET 2022
+VASP Calc    :	outmodel0	-208.60034177     Tue Dec 27 18:17:22 CET 2022
+VASP Calc    :     outmodel1	start	Tue Dec 27 18:17:22 CET 2022
+VASP Calc    : Error --> skipped     Tue Dec 27 18:18:32 CET 2022
+VASP Calc    :     outmodel10	start	Tue Dec 27 18:18:32 CET 2022
+VASP Calc    :	outmodel10	-209.37134892     Tue Dec 27 18:20:34 CET 2022
+VASP Calc    :     outmodel12	start	Tue Dec 27 18:20:35 CET 2022
+VASP Calc    : Error --> skipped     Tue Dec 27 18:21:42 CET 2022
+VASP Calc    :     outmodel14	start	Tue Dec 27 18:21:42 CET 2022
+VASP Calc    :	outmodel14	-203.00226957     Tue Dec 27 18:23:47 CET 2022
+VASP Calc    :     outmodel15	start	Tue Dec 27 18:23:48 CET 2022
+VASP Calc    :	outmodel15	-213.66280991     Tue Dec 27 18:26:21 CET 2022
+VASP Calc    :     outmodel16	start	Tue Dec 27 18:26:21 CET 2022
+VASP Calc    :	outmodel16	-213.44545006     Tue Dec 27 18:29:19 CET 2022
+VASP Calc    :     outmodel17	start	Tue Dec 27 18:29:20 CET 2022
+VASP Calc    :	outmodel17	-219.46595893     Tue Dec 27 18:31:51 CET 2022
+VASP Calc    :     outmodel18	start	Tue Dec 27 18:31:53 CET 2022
+VASP Calc    :	outmodel18	-208.60085275     Tue Dec 27 18:33:54 CET 2022
+VASP Calc    :     outmodel19	start	Tue Dec 27 18:33:58 CET 2022
+VASP Calc    : Error --> skipped     Tue Dec 27 18:35:14 CET 2022
+VASP Calc    :     outmodel2	start	Tue Dec 27 18:35:14 CET 2022
+VASP Calc    :	outmodel2	-210.27785051     Tue Dec 27 18:37:09 CET 2022
+VASP Calc    :     outmodel20	start	Tue Dec 27 18:37:09 CET 2022
+VASP Calc    :	outmodel20	-213.00864550     Tue Dec 27 18:39:41 CET 2022
+VASP Calc    :     outmodel21	start	Tue Dec 27 18:39:43 CET 2022
+VASP Calc    :	outmodel21	-213.79493234     Tue Dec 27 18:42:21 CET 2022
+VASP Calc    :     outmodel22	start	Tue Dec 27 18:42:22 CET 2022
+VASP Calc    :	outmodel22	-206.35521037     Tue Dec 27 18:45:05 CET 2022
+VASP Calc    :     outmodel24	start	Tue Dec 27 18:45:09 CET 2022
+VASP Calc    :	outmodel24	-209.84759921     Tue Dec 27 18:47:50 CET 2022
+VASP Calc    :     outmodel25	start	Tue Dec 27 18:47:51 CET 2022
+VASP Calc    :	outmodel25	-215.06740221     Tue Dec 27 18:50:23 CET 2022
+VASP Calc    :     outmodel26	start	Tue Dec 27 18:50:24 CET 2022
+VASP Calc    :	outmodel26	-212.14245337     Tue Dec 27 18:53:13 CET 2022
+VASP Calc    :     outmodel27	start	Tue Dec 27 18:53:15 CET 2022
+VASP Calc    :	outmodel27	-210.39201911     Tue Dec 27 18:55:56 CET 2022
+VASP Calc    :     outmodel29	start	Tue Dec 27 18:55:56 CET 2022
+VASP Calc    :	outmodel29	-214.97532653     Tue Dec 27 18:57:52 CET 2022
+VASP Calc    :     outmodel31	start	Tue Dec 27 18:57:54 CET 2022
+VASP Calc    :	outmodel31	-216.11136877     Tue Dec 27 19:00:00 CET 2022
+VASP Calc    :     outmodel33	start	Tue Dec 27 19:00:01 CET 2022
+VASP Calc    :	outmodel33	-211.71192480     Tue Dec 27 19:02:32 CET 2022
+VASP Calc    :     outmodel34	start	Tue Dec 27 19:02:36 CET 2022
+VASP Calc    : Error --> skipped     Tue Dec 27 19:03:39 CET 2022
+VASP Calc    :     outmodel35	start	Tue Dec 27 19:03:39 CET 2022
+VASP Calc    :	outmodel35	-220.61167631     Tue Dec 27 19:06:47 CET 2022
+VASP Calc    :     outmodel36	start	Tue Dec 27 19:06:47 CET 2022
+VASP Calc    :	outmodel36	-211.25875015     Tue Dec 27 19:09:24 CET 2022
+VASP Calc    :     outmodel4	start	Tue Dec 27 19:09:25 CET 2022
+VASP Calc    :	outmodel4	-214.40816217     Tue Dec 27 19:12:01 CET 2022
+VASP Calc    :     outmodel5	start	Tue Dec 27 19:12:02 CET 2022
+VASP Calc    :	outmodel5	-216.09955267     Tue Dec 27 19:14:10 CET 2022
+VASP Calc    :     outmodel6	start	Tue Dec 27 19:14:11 CET 2022
+VASP Calc    :	outmodel6	-208.31634396     Tue Dec 27 19:17:54 CET 2022
+VASP Calc    :     outmodel7	start	Tue Dec 27 19:17:55 CET 2022
+VASP Calc    :	outmodel7	-211.60815771     Tue Dec 27 19:20:54 CET 2022
+VASP Calc    :     outmodel8	start	Tue Dec 27 19:20:57 CET 2022
+VASP Calc    :	outmodel8	-211.09377031     Tue Dec 27 19:23:30 CET 2022
+VASP Calc    :     outmodel9	start	Tue Dec 27 19:23:30 CET 2022
+VASP Calc    :	outmodel9	-218.88234659     Tue Dec 27 19:25:27 CET 2022
+MLIP Start   : 	Tue Dec 27 19:25:32 CET 2022
+MLIP END     : 	Wed Dec 28 05:00:27 CET 2022
+############## This is the -> 5 <- cycle ##############
+VASP Calc    :     outmodel0	start	Wed Dec 28 05:02:04 CET 2022
+VASP Calc    :	outmodel0	-203.99622200     Wed Dec 28 05:04:41 CET 2022
+VASP Calc    :     outmodel1	start	Wed Dec 28 05:04:43 CET 2022
+VASP Calc    :	outmodel1	-199.45351281     Wed Dec 28 05:07:03 CET 2022
+VASP Calc    :     outmodel10	start	Wed Dec 28 05:07:03 CET 2022
+VASP Calc    :	outmodel10	-203.73964873     Wed Dec 28 05:09:59 CET 2022
+VASP Calc    :     outmodel12	start	Wed Dec 28 05:10:00 CET 2022
+VASP Calc    :	outmodel12	-202.52116603     Wed Dec 28 05:12:37 CET 2022
+VASP Calc    :     outmodel14	start	Wed Dec 28 05:12:42 CET 2022
+VASP Calc    :	outmodel14	-201.81504583     Wed Dec 28 05:15:36 CET 2022
+VASP Calc    :     outmodel15	start	Wed Dec 28 05:15:37 CET 2022
+VASP Calc    :	outmodel15	-194.14584287     Wed Dec 28 05:17:37 CET 2022
+VASP Calc    :     outmodel16	start	Wed Dec 28 05:17:39 CET 2022
+VASP Calc    :	outmodel16	-207.10723419     Wed Dec 28 05:19:44 CET 2022
+VASP Calc    :     outmodel17	start	Wed Dec 28 05:19:46 CET 2022
+VASP Calc    :	outmodel17	-198.30023708     Wed Dec 28 05:22:49 CET 2022
+VASP Calc    :     outmodel18	start	Wed Dec 28 05:22:49 CET 2022
+VASP Calc    : Error --> skipped     Wed Dec 28 05:23:59 CET 2022
+VASP Calc    :     outmodel19	start	Wed Dec 28 05:23:59 CET 2022
+VASP Calc    :	outmodel19	-197.42351865     Wed Dec 28 05:26:31 CET 2022
+VASP Calc    :     outmodel2	start	Wed Dec 28 05:26:31 CET 2022
+VASP Calc    : Error --> skipped     Wed Dec 28 05:27:37 CET 2022
+VASP Calc    :     outmodel20	start	Wed Dec 28 05:27:37 CET 2022
+VASP Calc    :	outmodel20	-200.45799378     Wed Dec 28 05:30:29 CET 2022
+VASP Calc    :     outmodel21	start	Wed Dec 28 05:30:29 CET 2022
+VASP Calc    :	outmodel21	-206.85913307     Wed Dec 28 05:33:01 CET 2022
+VASP Calc    :     outmodel22	start	Wed Dec 28 05:33:01 CET 2022
+VASP Calc    :	outmodel22	-195.83841008     Wed Dec 28 05:35:08 CET 2022
+VASP Calc    :     outmodel23	start	Wed Dec 28 05:35:08 CET 2022
+VASP Calc    : Error --> skipped     Wed Dec 28 05:35:58 CET 2022
+VASP Calc    :     outmodel24	start	Wed Dec 28 05:35:58 CET 2022
+VASP Calc    : Error --> skipped     Wed Dec 28 05:37:03 CET 2022
+VASP Calc    :     outmodel25	start	Wed Dec 28 05:37:03 CET 2022
+VASP Calc    :	outmodel25	-220.61167631     Wed Dec 28 05:39:43 CET 2022
+VASP Calc    :     outmodel26	start	Wed Dec 28 05:39:44 CET 2022
+VASP Calc    : Error --> skipped     Wed Dec 28 05:40:39 CET 2022
+VASP Calc    :     outmodel27	start	Wed Dec 28 05:40:39 CET 2022
+VASP Calc    :	outmodel27	-211.08198262     Wed Dec 28 05:43:12 CET 2022
+VASP Calc    :     outmodel29	start	Wed Dec 28 05:43:13 CET 2022
+VASP Calc    :	outmodel29	-211.58156585     Wed Dec 28 05:45:59 CET 2022
+VASP Calc    :     outmodel31	start	Wed Dec 28 05:46:00 CET 2022
+VASP Calc    :	outmodel31	-191.38018943     Wed Dec 28 05:48:05 CET 2022
+VASP Calc    :     outmodel33	start	Wed Dec 28 05:48:08 CET 2022
+VASP Calc    :	outmodel33	-202.39445644     Wed Dec 28 05:50:21 CET 2022
+VASP Calc    :     outmodel34	start	Wed Dec 28 05:50:22 CET 2022
+VASP Calc    : Error --> skipped     Wed Dec 28 05:51:15 CET 2022
+VASP Calc    :     outmodel35	start	Wed Dec 28 05:51:16 CET 2022
+VASP Calc    : Error --> skipped     Wed Dec 28 05:52:27 CET 2022
+VASP Calc    :     outmodel4	start	Wed Dec 28 05:52:27 CET 2022
+VASP Calc    : Error --> skipped     Wed Dec 28 05:53:34 CET 2022
+VASP Calc    :     outmodel5	start	Wed Dec 28 05:53:35 CET 2022
+VASP Calc    :	outmodel5	-202.05198517     Wed Dec 28 05:55:38 CET 2022
+VASP Calc    :     outmodel6	start	Wed Dec 28 05:55:39 CET 2022
+VASP Calc    :	outmodel6	-203.29558130     Wed Dec 28 05:57:47 CET 2022
+VASP Calc    :     outmodel7	start	Wed Dec 28 05:57:48 CET 2022
+VASP Calc    :	outmodel7	-203.68054280     Wed Dec 28 06:00:40 CET 2022
+VASP Calc    :     outmodel8	start	Wed Dec 28 06:00:40 CET 2022
+VASP Calc    :	outmodel8	-200.56476386     Wed Dec 28 06:03:11 CET 2022
+VASP Calc    :     outmodel9	start	Wed Dec 28 06:03:11 CET 2022
+VASP Calc    :	outmodel9	-204.12007040     Wed Dec 28 06:05:59 CET 2022
+MLIP Start   : 	Wed Dec 28 06:06:02 CET 2022

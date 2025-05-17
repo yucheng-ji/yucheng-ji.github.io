@@ -1,0 +1,8 @@
+############## This is the -> 1 <- cycle ##############
+VASP Calc    :     outmodel	start	Thu Dec 22 16:25:45 CET 2022
+VASP Calc    :	outmodel	-220.61167631     Thu Dec 22 16:28:43 CET 2022
+MLIP Start   : 	Thu Dec 22 16:28:45 CET 2022
+MLIP END     : 	Fri Dec 23 14:31:37 CET 2022
+############## This is the -> 2 <- cycle ##############
+VASP Calc    :     outmodel0	start	Fri Dec 23 14:32:38 CET 2022
+VASP Calc    : Error     Fri Dec 23 14:33:44 CET 2022
