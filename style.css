@@ -1,50 +1,24 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Yucheng Ji - Personal Homepage</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <header>
-        <h1>Yucheng Ji</h1>
-        <nav>
-            <ul>
-                <li><a href="#about">About</a></li>
-                <li><a href="#projects">Projects</a></li>
-                <li><a href="#contact">Contact</a></li>
-            </ul>
-        </nav>
-    </header>
+.sidebar {
+    width: 250px;
+    background-color: #f5f5f5;
+    border-right: 1px solid #ddd;
+    padding: 20px 0 20px 30px; /* 增加左侧padding为30px */
+    overflow-y: auto;
+    position: sticky;
+    top: 0;
+    height: 100vh;
+}
 
-    <main>
-        <section id="about">
-            <h2>About Me</h2>
-            <p>Hello! I'm Yucheng Ji. This is my personal homepage where I share information about my work and projects.</p>
-        </section>
+.sidebar-header {
+    padding: 0 20px 15px 30px; /* 同步增加左侧padding */
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 15px;
+}
 
-        <section id="projects">
-            <h2>Projects</h2>
-            <div class="project">
-                <h3>Project 1</h3>
-                <p>Description of your first project.</p>
-            </div>
-            <div class="project">
-                <h3>Project 2</h3>
-                <p>Description of your second project.</p>
-            </div>
-        </section>
-
-        <section id="contact">
-            <h2>Contact</h2>
-            <p>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
-            <p>GitHub: <a href="https://github.com/yucheng-ji">github.com/yucheng-ji</a></p>
-        </section>
-    </main>
-
-    <footer>
-        <p>&copy; 2023 Yucheng Ji. All rights reserved.</p>
-    </footer>
-</body>
-</html>
+.sidebar a {
+    display: block;
+    padding: 5px 20px 5px 30px; /* 链接也增加左侧padding */
+    color: #0066cc;
+    text-decoration: none;
+    font-size: 0.9rem;
+}
