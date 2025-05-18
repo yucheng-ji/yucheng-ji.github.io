@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HE-resistant Materials Design</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Sidebar Navigation -->
+    <div class="sidebar">
+        <div class="sidebar-header">
+            <div class="version-info">Ji Yucheng</div>
+            <div class="version-info">University of Science and Technology Beijing</div>
+            <div class="version-info">jiyucheng@ustb.edu.cn</div>
+        </div>
+
+        <div class="nav-section">
+            <div class="nav-header" onclick="toggleSection('user-guide')">
+                <h2><a href="he.html" class="nav-header-link">HE-resistant materials design</a></h2>
+            </div>
+        </div>
+
+        <div class="nav-section">
+            <div class="nav-header">
+                <h2><a href="corrosion.html" class="nav-header-link">
+                    Corrosion resistant alloy design</a>
+                </h2>
+            </div>
+            <ul id="case-2" class="collapsible"></ul>
+        </div>
+
+        <div class="nav-section">
+            <div class="nav-header">
+                <h2><a href="prediction.html" class="nav-header-link">
+                    Corrosion rate prediction</a>
+                </h2>
+            </div>
+            <ul id="case-3" class="collapsible"></ul>
+        </div>
+    </div>
+
+    <!-- Main Content -->
+    <div class="main-content">
+        <div class="top-nav">
+            <div class="breadcrumb">
+                <a href="index.html">Home</a> &gt; HE-resistant materials design
+            </div>
+        </div>
+
+        <div class="content-header">
+            <h1>HE-resistant Materials Design</h1>
+        </div>
+
+        <div class="content-header">
+            <h1>Tailoring precipitates for enhanced hydrogen trapping in aluminum alloys</h1>
+            <h3>Yucheng Ji, Xiaoqian Fu, Mahdieh Safyari, Chenyang Yao, Fei Shuang,
+                Xucheng Yin, Xiaogang Li, Masoud Moshtaghi, Chaofang Dong, Poulumi Dey
+            </h3>
+        </div>
+
+        <!-- README 内容 -->
+        <div>
+            <div>
+            Enhancing the hydrogen embrittlement (HE) resistance of alloys caters to the urgent needs of
+            engineering safety and long-distance hydrogen transportation. Highly dense precipitates present
+            in the microstructure of alloys act as H traps, however, some of them cannot strongly trap H
+            thus failing to prevent its accumulation at the critical regions (e.g., crack tip, etc) resulting
+            in the material’s rapid failure. Experimentally, it is challenging to expeditiously identify and
+            generate phases causing strengthening and acting as strong H traps. Here, we demonstrate a
+            computation-based design strategy to generate precipitates strongly trapping H, decreasing
+            the HE susceptibility of Al alloy (by ~78%) by tuning the Cu distribution in the microstructure.
+            Our density functional theory results show that the Cu-doped Al3Sc exhibit strong Cu-H bond.
+            The quantum machine learning Al-Sc-Cu potential, developed within this study, aids in rapidly
+            determining the optimal processing parameters to create phases that can strongly trap H
+                even though they are metastable in nature. Our modelling approach provides insights
+                into the underlying mechanisms behind precipitation. Elemental mapping in the electron
+                microscope confirms the presence of Cu in Al3Sc, which exhibits a more deeply trapped
+                H peak than dislocations in the H desorption curve. Hence, we envisage the proposed
+                strategy will accelerate the design of HE-resistant microstructures of various
+                technologically relevant materials via identification of desirable phases.
+            </div>
+        </div>
+
+        <!-- 文件列表 -->
+        <div class="file-browser"></div>
+
+        <!-- 替换原有的下载按钮部分 -->
+        <div id="download-section">
+            <a href="https://github.com/yucheng-ji/Hydrogen-resistant-Materials-design/archive/refs/heads/main.zip"
+               class="download-btn"
+               download
+               id="download-all">
+                <i class="fas fa-download"></i> Download All (ZIP)
+            </a>
+        </div>
+
+    </div>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <script src="script.js"></script>
+</body>
+</html>

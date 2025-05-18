@@ -3,129 +3,75 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Yucheng Ji</title>
+    <title>JiYucheng Group</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <!-- Sidebar Navigation -->
     <div class="sidebar">
         <div class="sidebar-header">
-            <div class="version-info">Yucheng Ji group</div>
+            <div class="version-info">Ji Yucheng</div>
             <div class="version-info">University of Science and Technology Beijing</div>
             <div class="version-info">jiyucheng@ustb.edu.cn</div>
         </div>
-        
+
         <div class="nav-section">
             <div class="nav-header" onclick="toggleSection('user-guide')">
-                <h2>HE-resistant materials design</h2>
+                <h2><a href="he.html" class="nav-header-link">HE-resistant materials design</a></h2>
             </div>
-            <ul id="user-guide" class="collapsible">
-                <li><a href="#introduction">1. Introduction</a></li>
-                <li><a href="#install">2. Install LAMMPS</a></li>
-                <li><a href="#build">3. Build LAMMPS</a></li>
-                <li><a href="#run">4. Run LAMMPS</a></li>
-                <li><a href="#commands">5. Commands</a></li>
-                <li><a href="#packages">6. Optional packages</a></li>
-                <li><a href="#performance">7. Accelerate performance</a></li>
-                <li><a href="#howto">8. Howto discussions</a></li>
-                <li><a href="#examples">9. Example scripts</a></li>
-                <li><a href="#tools">10. Auxiliary tools</a></li>
-                <li><a href="#errors">11. Errors</a></li>
-            </ul>
+            <ul id="case-1" class="collapsible"></ul>
         </div>
-        
+
         <div class="nav-section">
-            <div class="nav-header" onclick="toggleSection('programmer-guide')">
-                <h2>Programmer Guide</h2>
+            <div class="nav-header">
+                <h2><a href="corrosion.html" class="nav-header-link">
+                    Corrosion resistant alloy design</a>
+                </h2>
             </div>
-            <ul id="programmer-guide" class="collapsible">
-                <li><a href="#library">1. LAMMPS Library Interfaces</a></li>
-                <li><a href="#python">2. Use Python with LAMMPS</a></li>
-                <li><a href="#modifying">3. Modifying & extending LAMMPS</a></li>
-                <li><a href="#developers">4. Information for Developers</a></li>
-            </ul>
+            <ul id="case-2" class="collapsible"></ul>
         </div>
-        
+
         <div class="nav-section">
-            <div class="nav-header" onclick="toggleSection('command-reference')">
-                <h2>Command Reference</h2>
+            <div class="nav-header">
+                <h2><a href="prediction.html" class="nav-header-link">
+                    Corrosion rate prediction</a>
+                </h2>
             </div>
-            <ul id="command-reference" class="collapsible">
-                <li><a href="#commands-ref">Commands</a></li>
-                <li><a href="#fix-styles">Fix Styles</a></li>
-                <li><a href="#compute-styles">Compute Styles</a></li>
-                <li><a href="#pair-styles">Pair Styles</a></li>
-                <li><a href="#bond-styles">Bond Styles</a></li>
-                <li><a href="#angle-styles">Angle Styles</a></li>
-                <li><a href="#dihedral-styles">Dihedral Styles</a></li>
-                <li><a href="#improper-styles">Improper Styles</a></li>
-                <li><a href="#dump-styles">Dump Styles</a></li>
-                <li><a href="#fix-modify">fix_modify AtC commands</a></li>
-                <li><a href="#bibliography">Bibliography</a></li>
-            </ul>
+            <ul id="case-3" class="collapsible"></ul>
         </div>
     </div>
-    
+
     <!-- Main Content -->
     <div class="main-content">
         <div class="top-nav">
             <div class="breadcrumb">
-                <a href="#">LAMMPS</a> &gt; <a href="#">Documentation</a> &gt; Manual
+                <a href="#">ICC</a> &gt; Summary
             </div>
         </div>
-        
+
         <div class="content-header">
-            <h1>LAMMPS Documentation (2 Apr 2025 version)</h1>
+            <h1>腐蚀集成计算</h1>
+            <h1>Integrated Corrosion Computation - ICC</h1>
         </div>
-        
-        <h2 id="about">About LAMMPS and this manual</h2>
+
+        <h2 id="about">About ICC</h2>
         <p>
-            LAMMPS stands for Large-scale Atomic/Molecular Massively Parallel Simulator.
-            LAMMPS is a classical molecular dynamics simulation code focusing on
-            materials modeling. It was designed to run efficiently on parallel
-            computers and to be easy to extend and modify.
+            Integrated Corrosion Computation (ICC) is a multidisciplinary corrosion research
+            method that integrates a variety of simulation computing technologies, experimental data,
+            and data science tools. Based on a multi-scale simulation method from micro-nano to meso-macro,
+            it systematically studies the process from corrosion initiation to development, predicts the
+            corrosion aging behavior of materials, and optimizes corrosion protection measures.
+            This method not only helps to deeply understand the corrosion mechanism,
+            but also accelerates the development of new materials and anti-corrosion technologies,
+            and reduces the impact of corrosion on industry and society.
         </p>
-        
-        <h3>Online Manual Versions</h3>
-        <p>
-            The version of the manual on the LAMMPS website corresponds to the
-            latest LAMMPS feature release. It is available at:
-            <a href="https://docs.lammps.org/">https://docs.lammps.org/</a>.
-        </p>
-        
-        <h2 id="user-guide-content">User Guide</h2>
-        <h3>1. Introduction</h3>
-        <ul>
-            <li>1.1. Overview of LAMMPS</li>
-            <li>1.2. What does a LAMMPS version mean</li>
-            <li>1.3. LAMMPS features</li>
-        </ul>
+
+        <h2 id="about2">Experiments & Calculations</h2>
+        <div class="content-image">
+            <img src="images/calculations.jpg" alt="Corrosion Simulation Visualization">
+            <!--<p class="image-caption">Figure 1: Multi-scale corrosion simulation visualization</p>-->
+        </div>
+
     </div>
-
-    <script>
-        // 初始隐藏所有二级目录
-        document.querySelectorAll('.collapsible').forEach(item => {
-            item.style.display = 'none';
-        });
-
-        // 切换显示/隐藏函数
-        function toggleSection(sectionId) {
-            const section = document.getElementById(sectionId);
-            const arrow = section.previousElementSibling.querySelector('.arrow');
-            
-            if (section.style.display === 'none') {
-                section.style.display = 'block';
-                arrow.textContent = '▼';
-            } else {
-                section.style.display = 'none';
-                arrow.textContent = '▶';
-            }
-        }
-
-        // 默认展开第一个部分
-        window.onload = function() {
-            toggleSection('user-guide');
-        };
-    </script>
 </body>
 </html>
