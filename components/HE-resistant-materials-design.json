@@ -1,0 +1,553 @@
+{
+  "root": "dist/HE-resistant materials design",
+  "scanned_at": "2025-05-18T11:04:47.222898",
+  "files": [
+    {
+      "name": "Manual.pdf",
+      "path": "Manual.pdf",
+      "type": "file",
+      "size": 457397,
+      "created": "2025-05-17T15:34:15.585868",
+      "modified": "2023-03-03T17:25:37.845872",
+      "description": "MLIP Installation manual"
+    },
+    {
+      "name": "README.md",
+      "path": "README.md",
+      "type": "file",
+      "size": 34,
+      "created": "2025-05-17T15:52:49.842385",
+      "modified": "2025-05-18T10:58:05.431868",
+      "description": "Information and Citing"
+    },
+    {
+      "name": "active learning",
+      "path": "active learning",
+      "type": "directory",
+      "size": 0,
+      "created": "2025-05-17T15:07:00.744790",
+      "modified": "2025-05-17T15:33:06.341841",
+      "children": [
+        {
+          "name": "all.mtp",
+          "path": "active learning\\all.mtp",
+          "type": "file",
+          "size": 29238,
+          "created": "2025-05-17T15:07:00.805875",
+          "modified": "2023-01-01T18:54:11.150000",
+          "description": "Potential with all cfgs"
+        },
+        {
+          "name": "calculate_ab_initio_ef",
+          "path": "active learning\\calculate_ab_initio_ef",
+          "type": "directory",
+          "size": 0,
+          "created": "2025-05-17T15:07:01.980490",
+          "modified": "2025-05-18T10:16:46.406146",
+          "description": "Calculating VASP for new cfg",
+          "children": [
+            {
+              "name": "al_vasp_calibration.py",
+              "path": "active learning\\calculate_ab_initio_ef\\al_vasp_calibration.py",
+              "type": "file",
+              "size": 972,
+              "created": "2025-05-17T15:07:02.000426",
+              "modified": "2025-05-18T10:16:46.406146",
+              "description": "Perform VASP calculations and supplement cfgs"
+            },
+            {
+              "name": "raw_VASP_files",
+              "path": "active learning\\calculate_ab_initio_ef\\raw_VASP_files",
+              "type": "directory",
+              "size": 0,
+              "created": "2025-05-17T15:07:01.982483",
+              "modified": "2025-05-17T15:07:01.998433",
+              "children": [
+                {
+                  "name": "INCAR",
+                  "path": "active learning\\calculate_ab_initio_ef\\raw_VASP_files\\INCAR",
+                  "type": "file",
+                  "size": 447,
+                  "created": "2025-05-17T15:07:01.984476",
+                  "modified": "2023-01-01T18:55:09.543000",
+                  "description": "VASP INCAR files"
+                },
+                {
+                  "name": "KPOINTS",
+                  "path": "active learning\\calculate_ab_initio_ef\\raw_VASP_files\\KPOINTS",
+                  "type": "file",
+                  "size": 53,
+                  "created": "2025-05-17T15:07:01.998433",
+                  "modified": "2023-01-01T18:55:07.655000",
+                  "description": "VASP KPOINTS files"
+                },
+                {
+                  "name": "POTCAR",
+                  "path": "active learning\\calculate_ab_initio_ef\\raw_VASP_files\\POTCAR",
+                  "type": "file",
+                  "size": 662296,
+                  "created": "2025-05-17T15:07:01.993449",
+                  "modified": "2023-01-01T18:55:07.476000",
+                  "description": "VASP POTCAR files"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "curr.mtp",
+          "path": "active learning\\curr.mtp",
+          "type": "file",
+          "size": 29238,
+          "created": "2025-05-17T15:07:00.806872",
+          "modified": "2023-01-01T18:54:10.992000",
+          "description": "Temporary interatomic potential file"
+        },
+        {
+          "name": "data",
+          "path": "active learning\\data",
+          "type": "directory",
+          "size": 0,
+          "created": "2025-05-17T15:07:00.748780",
+          "modified": "2025-05-17T15:07:00.802885",
+          "children": [
+            {
+              "name": "data.Al",
+              "path": "active learning\\data\\data.Al",
+              "type": "file",
+              "size": 3736,
+              "created": "2025-05-17T15:07:00.751770",
+              "modified": "2023-01-01T18:54:52.495000",
+              "description": "AL models-LAMMPS data file"
+            },
+            {
+              "name": "data.Al2Cu",
+              "path": "active learning\\data\\data.Al2Cu",
+              "type": "file",
+              "size": 3250,
+              "created": "2025-05-17T15:07:00.767190",
+              "modified": "2023-01-01T18:54:52.330000",
+              "description": "AL models-LAMMPS data file"
+            },
+            {
+              "name": "data.Al2Cu-2",
+              "path": "active learning\\data\\data.Al2Cu-2",
+              "type": "file",
+              "size": 3735,
+              "created": "2025-05-17T15:07:00.796905",
+              "modified": "2023-01-01T18:54:51.919000",
+              "description": "AL models-LAMMPS data file"
+            },
+            {
+              "name": "data.Al3Cu2",
+              "path": "active learning\\data\\data.Al3Cu2",
+              "type": "file",
+              "size": 148580,
+              "created": "2025-05-17T15:07:00.785940",
+              "modified": "2023-01-01T18:54:49.598000",
+              "description": "AL models-LAMMPS data file"
+            },
+            {
+              "name": "data.Al4Cu9",
+              "path": "active learning\\data\\data.Al4Cu9",
+              "type": "file",
+              "size": 3504,
+              "created": "2025-05-17T15:07:00.787935",
+              "modified": "2023-01-01T18:54:49.325000",
+              "description": "AL models-LAMMPS data file"
+            },
+            {
+              "name": "data.AlCu",
+              "path": "active learning\\data\\data.AlCu",
+              "type": "file",
+              "size": 16391,
+              "created": "2025-05-17T15:07:00.759360",
+              "modified": "2023-01-01T18:54:49.170000",
+              "description": "AL models-LAMMPS data file"
+            },
+            {
+              "name": "data.AlCu3",
+              "path": "active learning\\data\\data.AlCu3",
+              "type": "file",
+              "size": 4174,
+              "created": "2025-05-17T15:07:00.768951",
+              "modified": "2023-01-01T18:54:49",
+              "description": "AL models-LAMMPS data file"
+            },
+            {
+              "name": "data.AlCu3-2",
+              "path": "active learning\\data\\data.AlCu3-2",
+              "type": "file",
+              "size": 4275,
+              "created": "2025-05-17T15:07:00.798899",
+              "modified": "2023-01-01T18:54:48.798000",
+              "description": "AL models-LAMMPS data file"
+            },
+            {
+              "name": "data.AlCu4",
+              "path": "active learning\\data\\data.AlCu4",
+              "type": "file",
+              "size": 2680,
+              "created": "2025-05-17T15:07:00.770015",
+              "modified": "2023-01-01T18:54:48.621000",
+              "description": "AL models-LAMMPS data file"
+            },
+            {
+              "name": "data.Cu",
+              "path": "active learning\\data\\data.Cu",
+              "type": "file",
+              "size": 22045,
+              "created": "2025-05-17T15:07:00.754757",
+              "modified": "2023-01-01T18:54:48.293000",
+              "description": "AL models-LAMMPS data file"
+            },
+            {
+              "name": "data.Cu-2",
+              "path": "active learning\\data\\data.Cu-2",
+              "type": "file",
+              "size": 23087,
+              "created": "2025-05-17T15:07:00.761306",
+              "modified": "2023-01-01T18:54:47.975000",
+              "description": "AL models-LAMMPS data file"
+            },
+            {
+              "name": "data.Sc",
+              "path": "active learning\\data\\data.Sc",
+              "type": "file",
+              "size": 3317,
+              "created": "2025-05-17T15:07:00.757364",
+              "modified": "2023-01-01T18:54:47.809000",
+              "description": "AL models-LAMMPS data file"
+            },
+            {
+              "name": "data.Sc-HCP",
+              "path": "active learning\\data\\data.Sc-HCP",
+              "type": "file",
+              "size": 3226,
+              "created": "2025-05-17T15:07:00.789929",
+              "modified": "2023-01-01T18:54:47.459000",
+              "description": "AL models-LAMMPS data file"
+            },
+            {
+              "name": "data.Sc2Al",
+              "path": "active learning\\data\\data.Sc2Al",
+              "type": "file",
+              "size": 5320,
+              "created": "2025-05-17T15:07:00.772332",
+              "modified": "2023-01-01T18:54:47.261000",
+              "description": "AL models-LAMMPS data file"
+            },
+            {
+              "name": "data.Sc2AlCu.data",
+              "path": "active learning\\data\\data.Sc2AlCu.data",
+              "type": "file",
+              "size": 6225,
+              "created": "2025-05-17T15:07:00.802885",
+              "modified": "2023-12-28T19:53:17.623000",
+              "description": "AL models-LAMMPS data file"
+            },
+            {
+              "name": "data.Sc3Al",
+              "path": "active learning\\data\\data.Sc3Al",
+              "type": "file",
+              "size": 4699,
+              "created": "2025-05-17T15:07:00.774366",
+              "modified": "2023-01-01T18:54:46.433000",
+              "description": "AL models-LAMMPS data file"
+            },
+            {
+              "name": "data.ScAl",
+              "path": "active learning\\data\\data.ScAl",
+              "type": "file",
+              "size": 3599,
+              "created": "2025-05-17T15:07:00.763301",
+              "modified": "2023-01-01T18:54:46.198000",
+              "description": "AL models-LAMMPS data file"
+            },
+            {
+              "name": "data.ScAl-2",
+              "path": "active learning\\data\\data.ScAl-2",
+              "type": "file",
+              "size": 5396,
+              "created": "2025-05-17T15:07:00.791922",
+              "modified": "2023-01-01T18:54:46.033000",
+              "description": "AL models-LAMMPS data file"
+            },
+            {
+              "name": "data.ScAl2",
+              "path": "active learning\\data\\data.ScAl2",
+              "type": "file",
+              "size": 4730,
+              "created": "2025-05-17T15:07:00.775857",
+              "modified": "2023-01-01T18:54:45.867000",
+              "description": "AL models-LAMMPS data file"
+            },
+            {
+              "name": "data.ScAl3",
+              "path": "active learning\\data\\data.ScAl3",
+              "type": "file",
+              "size": 5457,
+              "created": "2025-05-17T15:07:00.777853",
+              "modified": "2023-01-01T18:54:45.060000",
+              "description": "AL models-LAMMPS data file"
+            },
+            {
+              "name": "data.ScAlCu",
+              "path": "active learning\\data\\data.ScAlCu",
+              "type": "file",
+              "size": 4617,
+              "created": "2025-05-17T15:07:00.794912",
+              "modified": "2023-01-01T18:54:44.869000",
+              "description": "AL models-LAMMPS data file"
+            },
+            {
+              "name": "data.ScAlCu2",
+              "path": "active learning\\data\\data.ScAlCu2",
+              "type": "file",
+              "size": 2839,
+              "created": "2025-05-17T15:07:00.799895",
+              "modified": "2023-01-01T18:54:44.705000",
+              "description": "AL models-LAMMPS data file"
+            },
+            {
+              "name": "data.ScCu",
+              "path": "active learning\\data\\data.ScCu",
+              "type": "file",
+              "size": 5251,
+              "created": "2025-05-17T15:07:00.765563",
+              "modified": "2023-01-01T18:54:44.538000",
+              "description": "AL models-LAMMPS data file"
+            },
+            {
+              "name": "data.ScCu2",
+              "path": "active learning\\data\\data.ScCu2",
+              "type": "file",
+              "size": 5316,
+              "created": "2025-05-17T15:07:00.779845",
+              "modified": "2023-01-01T18:54:44.353000",
+              "description": "AL models-LAMMPS data file"
+            },
+            {
+              "name": "data.ScCu3",
+              "path": "active learning\\data\\data.ScCu3",
+              "type": "file",
+              "size": 3666,
+              "created": "2025-05-17T15:07:00.781839",
+              "modified": "2023-01-01T18:54:44.156000",
+              "description": "AL models-LAMMPS data file"
+            }
+          ]
+        },
+        {
+          "name": "diff.cfg",
+          "path": "active learning\\diff.cfg",
+          "type": "file",
+          "size": 161513,
+          "created": "2025-05-17T15:07:00.811855",
+          "modified": "2023-01-01T18:54:09.864000",
+          "description": "Comparing file with new cfg"
+        },
+        {
+          "name": "mlip.ini",
+          "path": "active learning\\mlip.ini",
+          "type": "file",
+          "size": 178,
+          "created": "2025-05-17T15:07:00.812852",
+          "modified": "2023-01-01T18:54:09.359000",
+          "description": "MLIP control file"
+        },
+        {
+          "name": "rdf.in",
+          "path": "active learning\\rdf.in",
+          "type": "file",
+          "size": 407,
+          "created": "2025-05-17T15:07:00.803882",
+          "modified": "2023-01-01T18:54:09.184000",
+          "description": "LAMMPS in.file"
+        },
+        {
+          "name": "state.als",
+          "path": "active learning\\state.als",
+          "type": "file",
+          "size": 6742308,
+          "created": "2025-05-17T15:07:01.559369",
+          "modified": "2023-01-01T18:54:08.780000",
+          "description": "MLIP state als file"
+        },
+        {
+          "name": "tools",
+          "path": "active learning\\tools",
+          "type": "directory",
+          "size": 0,
+          "created": "2025-05-17T15:07:00.814845",
+          "modified": "2025-05-17T15:32:49.407264",
+          "children": [
+            {
+              "name": "all.mtp",
+              "path": "active learning\\tools\\all.mtp",
+              "type": "file",
+              "size": 29246,
+              "created": "2025-05-17T15:07:00.819829",
+              "modified": "2023-01-01T18:54:43.973000"
+            },
+            {
+              "name": "log.28Dec_5times",
+              "path": "active learning\\tools\\log.28Dec_5times",
+              "type": "file",
+              "size": 22233,
+              "created": "2025-05-17T15:07:01.205550",
+              "modified": "2023-01-01T18:54:43.606000",
+              "description": "Active learning log files"
+            },
+            {
+              "name": "log.timestamp",
+              "path": "active learning\\tools\\log.timestamp",
+              "type": "file",
+              "size": 887,
+              "created": "2025-05-17T15:07:01.091296",
+              "modified": "2023-01-01T18:54:43.422000",
+              "description": "Active learning log files"
+            },
+            {
+              "name": "log.timestamp23Dec",
+              "path": "active learning\\tools\\log.timestamp23Dec",
+              "type": "file",
+              "size": 454,
+              "created": "2025-05-17T15:07:01.533453",
+              "modified": "2023-01-01T18:54:43.268000",
+              "description": "Active learning log files"
+            },
+            {
+              "name": "sub.sh",
+              "path": "active learning\\tools\\sub.sh",
+              "type": "file",
+              "size": 481,
+              "created": "2025-05-17T15:07:00.817835",
+              "modified": "2023-01-01T18:54:22.779000",
+              "description": "Training potential for one time"
+            },
+            {
+              "name": "test.sh",
+              "path": "active learning\\tools\\test.sh",
+              "type": "file",
+              "size": 212,
+              "created": "2025-05-17T15:07:00.821822",
+              "modified": "2023-01-01T18:54:22.624000",
+              "description": "submit LAMMPS task into HPC"
+            },
+            {
+              "name": "timepoint.txt",
+              "path": "active learning\\tools\\timepoint.txt",
+              "type": "file",
+              "size": 783,
+              "created": "2025-05-17T15:07:01.094287",
+              "modified": "2023-01-01T18:54:22.230000",
+              "description": "Log file"
+            },
+            {
+              "name": "train_0.cfg",
+              "path": "active learning\\tools\\train_0.cfg",
+              "type": "file",
+              "size": 5767601,
+              "created": "2025-05-17T15:07:01.059406",
+              "modified": "2023-01-01T18:54:22.066000",
+              "description": "cfg data set during AL for bak"
+            },
+            {
+              "name": "train_init.cfg",
+              "path": "active learning\\tools\\train_init.cfg",
+              "type": "file",
+              "size": 5786475,
+              "created": "2025-05-17T15:07:01.141130",
+              "modified": "2023-01-01T18:54:17.194000",
+              "description": "Initial cfgs dataset"
+            },
+            {
+              "name": "vasp.sh",
+              "path": "active learning\\tools\\vasp.sh",
+              "type": "file",
+              "size": 856,
+              "created": "2025-05-17T15:07:00.822819",
+              "modified": "2023-01-01T18:54:11.440000",
+              "description": "submit VASP task"
+            }
+          ]
+        },
+        {
+          "name": "train.cfg",
+          "path": "active learning\\train.cfg",
+          "type": "file",
+          "size": 6547686,
+          "created": "2025-05-17T15:07:01.604216",
+          "modified": "2023-01-01T18:54:05.470000",
+          "description": "cfg data set during AL"
+        },
+        {
+          "name": "train_init.cfg",
+          "path": "active learning\\train_init.cfg",
+          "type": "file",
+          "size": 6547686,
+          "created": "2025-05-17T15:07:01.966540",
+          "modified": "2023-01-01T18:54:03.776000",
+          "description": "Initial cfgs dataset"
+        },
+        {
+          "name": "vasp_md_al.sh",
+          "path": "active learning\\vasp_md_al.sh",
+          "type": "file",
+          "size": 2964,
+          "created": "2025-05-17T15:07:01.616176",
+          "modified": "2023-01-01T18:53:59.003000",
+          "description": "IMPORTANT!   Active learning submit"
+        }
+      ]
+    },
+    {
+      "name": "potentials",
+      "path": "potentials",
+      "type": "directory",
+      "size": 0,
+      "created": "2025-05-17T15:33:42.026512",
+      "modified": "2025-05-17T15:51:47.218562",
+      "children": [
+        {
+          "name": "1st-AL.mtp",
+          "path": "potentials\\1st-AL.mtp",
+          "type": "file",
+          "size": 29260,
+          "created": "2025-05-17T15:51:47.218562",
+          "modified": "2023-03-24T00:50:26.725000",
+          "description": "Potential with 1st active learning"
+        },
+        {
+          "name": "all.mtp",
+          "path": "potentials\\all.mtp",
+          "type": "file",
+          "size": 29238,
+          "created": "2025-05-17T15:07:00.805875",
+          "modified": "2023-01-01T18:54:11.150000",
+          "description": "Potential with all cfgs and without active learning"
+        }
+      ]
+    },
+    {
+      "name": "raw data",
+      "path": "raw data",
+      "type": "directory",
+      "size": 0,
+      "created": "2025-05-17T15:33:52.234685",
+      "modified": "2025-05-17T15:48:21.201726",
+      "children": [
+        {
+          "name": "train.cfg",
+          "path": "raw data\\train.cfg",
+          "type": "file",
+          "size": 10344560,
+          "created": "2025-05-17T15:48:21.201726",
+          "modified": "2023-12-23T14:00:04.114614",
+          "description": "Initial cfgs dataset"
+        }
+      ]
+    }
+  ]
+}
